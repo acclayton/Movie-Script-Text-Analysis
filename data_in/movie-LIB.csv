@@ -1,0 +1,25 @@
+movie_id,name,studio,director,genre,year
+m1,Rogue One: A Star Wars Story,Lucasfilm Ltd.,Gareth Edwards,Action Adventure Science Fiction,2016
+m2,Star Wars: Episode III - Revenge of the Sith,Lucasfilm Ltd.,George Lucas,Action Science Fiction Adventure,2005
+m3,Star Wars: The Rise of Skywalker,Lucasfilm Ltd.,J.J. Abrams,Science Fiction Adventure Action,2019
+m4,Captain America: The First Avenger,Marvel Studios,Joe Johnston,Science Fiction Action Adventure,2011
+m5,Captain America: The Winter Soldier,Marvel Studios,Anthony Russo Joe Russo,Action Adventure Science Fiction,2014
+m6,Captain America: Civil War,Marvel Studios,Anthony Russo Joe Russo,Action Science Fiction Adventure,2016
+m7,The Avengers,Marvel Studios,Joss Whedon,Science Fiction Adventure Action,2012
+m8,Avengers: Age of Ultron,Marvel Studios,Joss Whedon,Science Fiction Action Adventure,2015
+m9,Avengers: Infinity War,Marvel Studios,Anthony Russo Joe Russo,Adventure Action Science Fiction,2018
+m10,Avengers: Endgame,Marvel Studios,Anthony Russo Joe Russo,Adventure Science Fiction Action,2019
+m11,Captain Marvel,Marvel Studios,Ryan Fleck Anna Boden,Science Fiction Action Adventure,2019
+m12,Beauty and the Beast,Walt Disney Animation Studios,Gary Trousdale Kirk Wise,Animation Family Fantasy Romance,1991
+m13,Inside Out,Pixar,Pete Docter,Adventure Comedy Family Drama Animation,2015
+m14,Monsters University,Pixar,Dan Scanlon,Animation Family,2013
+m15,Monsters Inc.,Pixar,Pete Docter,Family Comedy Animation,2001
+m16,Moana,Walt Disney Animation Studios,Ron Clements John Musker,Comedy Adventure Animation Family,2016
+m17,Zootopia,Walt Disney Animation Studios,Byron Howard Rich Moore,Comedy Family Adventure Animation,2016
+m18,Mulan,Walt Disney Animation Studios,Tony Bancroft Barry Cook,Adventure Family Animation,1998
+m19,Soul,Pixar,Pete Docter,Family Drama Music Comedy Animation Fantasy,2020
+m20,Frozen,Walt Disney Animation Studios,Chris Buck Jennifer Lee,Family Adventure Animation,2013
+m21,Frozen II,Walt Disney Animation Studios,Chris Buck Jennifer Lee,Fantasy Music Family Adventure Comedy Animation,2019
+m22,Tangled,Walt Disney Animation Studios,Byron Howard Nathan Greno,Family Animation,2010
+m23,Cars,Pixar,John Lasseter,Animation Adventure Family Comedy,2006
+m24,Finding Nemo,Pixar,Andrew Stanton,Family Animation,2003
